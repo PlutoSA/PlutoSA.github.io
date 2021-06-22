@@ -1,1 +1,0 @@
-(self.webpackChunkplutosa_blog=self.webpackChunkplutosa_blog||[]).push([[985],{6353:function(t){"use strict";t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introduction","permalink":"/blog/2021-06-16-Introduction"},{"title":"Test Blog Title","permalink":"/blog/Test_Blog_Slug"}]}')}}]);

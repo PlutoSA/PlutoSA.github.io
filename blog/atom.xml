@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PlutoSA.github.io/blog</id>
-    <title>My Site Blog</title>
+    <title>Bryan Thomson Blog</title>
     <updated>2021-06-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://PlutoSA.github.io/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Bryan Thomson Blog</subtitle>
     <icon>https://PlutoSA.github.io/img/favicon_io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Introduction]]></title>
@@ -13,12 +13,5 @@
         <link href="https://PlutoSA.github.io/blog/2021-06-16-Introduction"/>
         <updated>2021-06-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hi, I'm Bryan and this is.... something.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Test Blog Title]]></title>
-        <id>Test_Blog_Slug</id>
-        <link href="https://PlutoSA.github.io/blog/Test_Blog_Slug"/>
-        <updated>2021-06-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The purpose of this doc is to show the manner in which markdown is used.]]></summary>
     </entry>
 </feed>

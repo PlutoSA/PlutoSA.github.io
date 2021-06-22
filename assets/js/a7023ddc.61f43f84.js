@@ -1,0 +1,1 @@
+(self.webpackChunkplutosa_blog=self.webpackChunkplutosa_blog||[]).push([[713],{7485:function(l){"use strict";l.exports=JSON.parse('{"intro":{"allTagsPath":"/blog/tags","slug":"intro","name":"intro","count":1,"permalink":"/blog/tags/intro"},"blog":{"allTagsPath":"/blog/tags","slug":"blog","name":"blog","count":1,"permalink":"/blog/tags/blog"}}')}}]);

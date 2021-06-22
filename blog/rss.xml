@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>My Site Blog</title>
+        <title>Bryan Thomson Blog</title>
         <link>https://PlutoSA.github.io/blog</link>
-        <description>My Site Blog</description>
+        <description>Bryan Thomson Blog</description>
         <lastBuildDate>Wed, 16 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
@@ -13,13 +13,6 @@
             <guid>2021-06-16-Introduction</guid>
             <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hi, I'm Bryan and this is.... something.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Test Blog Title]]></title>
-            <link>https://PlutoSA.github.io/blog/Test_Blog_Slug</link>
-            <guid>Test_Blog_Slug</guid>
-            <pubDate>Tue, 15 Jun 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[The purpose of this doc is to show the manner in which markdown is used.]]></description>
         </item>
     </channel>
 </rss>
