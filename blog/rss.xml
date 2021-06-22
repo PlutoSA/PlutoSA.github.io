@@ -7,6 +7,7 @@
         <lastBuildDate>Wed, 16 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2021 PlutoSA, Inc.</copyright>
         <item>
             <title><![CDATA[Introduction]]></title>
             <link>https://PlutoSA.github.io/blog/2021-06-16-Introduction</link>
