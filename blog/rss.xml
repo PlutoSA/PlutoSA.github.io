@@ -4,10 +4,16 @@
         <title>Bryan Thomson Blog</title>
         <link>https://PlutoSA.github.io/blog</link>
         <description>Bryan Thomson Blog</description>
-        <lastBuildDate>Wed, 16 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2021 PlutoSA, Inc.</copyright>
+        <item>
+            <title><![CDATA[Shut your Pi-Hole]]></title>
+            <link>https://PlutoSA.github.io/blog/2021-06-16-Introduction</link>
+            <guid>2021-06-16-Introduction</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introduction]]></title>
             <link>https://PlutoSA.github.io/blog/2021-06-16-Introduction</link>
