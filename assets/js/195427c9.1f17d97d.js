@@ -1,1 +1,0 @@
-(self.webpackChunkplutosa_blog=self.webpackChunkplutosa_blog||[]).push([[985],{6353:function(t){"use strict";t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Shut your Pi-Hole","permalink":"/blog/2021-07-03-Pihole"},{"title":"Introduction","permalink":"/blog/2021-06-16-Introduction"}]}')}}]);

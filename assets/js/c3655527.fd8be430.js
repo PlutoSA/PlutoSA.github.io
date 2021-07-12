@@ -1,0 +1,1 @@
+(self.webpackChunkplutosa_blog=self.webpackChunkplutosa_blog||[]).push([[877],{4877:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"adware","name":"adware","count":1,"permalink":"/blog/tags/adware"}')}}]);
