@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplutosa_blog=self.webpackChunkplutosa_blog||[]).push([[725],{6590:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"learning","name":"learning","count":1,"permalink":"/blog/tags/learning"}')}}]);

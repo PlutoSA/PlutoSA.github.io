@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplutosa_blog=self.webpackChunkplutosa_blog||[]).push([[346],{6422:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"mobbing","name":"mobbing","count":1,"permalink":"/blog/tags/mobbing"}')}}]);

@@ -4,10 +4,17 @@
         <title>Bryan Thomson Blog</title>
         <link>https://PlutoSA.github.io/blog</link>
         <description>Bryan Thomson Blog</description>
-        <lastBuildDate>Mon, 05 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2021 PlutoSA, Inc.</copyright>
+        <item>
+            <title><![CDATA[Mob Mentality]]></title>
+            <link>https://PlutoSA.github.io/blog/2021-10-07-Mob-Mentality</link>
+            <guid>2021-10-07-Mob-Mentality</guid>
+            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The developer holy grail]]></description>
+        </item>
         <item>
             <title><![CDATA[Shut your Pi-Hole]]></title>
             <link>https://PlutoSA.github.io/blog/2021-07-05-Pi-Hole</link>

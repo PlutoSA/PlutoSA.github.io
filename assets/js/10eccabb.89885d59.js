@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplutosa_blog=self.webpackChunkplutosa_blog||[]).push([[297],{8837:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"team","name":"team","count":1,"permalink":"/blog/tags/team"}')}}]);

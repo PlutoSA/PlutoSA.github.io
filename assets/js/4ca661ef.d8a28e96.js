@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplutosa_blog=self.webpackChunkplutosa_blog||[]).push([[913],{1482:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"culture","name":"culture","count":1,"permalink":"/blog/tags/culture"}')}}]);

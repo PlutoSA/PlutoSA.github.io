@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplutosa_blog=self.webpackChunkplutosa_blog||[]).push([[953],{7835:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"home-tech","name":"home-tech","count":1,"permalink":"/blog/tags/home-tech"}')}}]);
